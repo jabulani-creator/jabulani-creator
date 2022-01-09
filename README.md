@@ -16,8 +16,6 @@ git<p align="center"><img src="languages-header.png"></p>
 <img src="handshake.gif" width="80px">
 <br>
 
-<br>
-
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
@@ -31,23 +29,24 @@ Here are Tech Stacks my brain plays with on a daily basis. <br>🤓 I Make magic
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![ReactJavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=for-the-badge&logo=react)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=for-the-badge&logo=Jquery)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 <br>
 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 <br>
 
+![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=json&logoColor=000000)&nbsp;
+<br>
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Java](https://img.shields.io/badge/java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 <br>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=for-the-badge&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![C](https://img.shields.io/badge/c-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 <br>
