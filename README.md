@@ -117,7 +117,7 @@ const Books = [
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/JabulaniCharinga/"><img src="https://img.shields.io/badge/JabulaniCharinga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jabulani-charinga/"><img src="https://img.shields.io/badge/JabulaniCharinga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:charingabiggie@gmail.com"><img src="https://img.shields.io/badge/-charingabiggie@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/JabulaniCharin1"><img src="https://img.shields.io/badge/-Jabulani%20Charinga-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/bigjabulani"><img src="https://img.shields.io/badge/-Jabulani%20Charinga-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
